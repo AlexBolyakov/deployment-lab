@@ -3,11 +3,22 @@
 }
 
 button {
-    background-color: black;
-    color: white;
+    background-color: rgb(185, 14, 14);
+    color: rgb(9, 0, 0);
     border: none;
     border-right: 2px solid aqua;
     border-bottom: 2px solid aqua;
     padding: 10px 20px;
     font-weight: bold;
+}
+
+h1 {
+    background-color: blue;
+    color: wheat;
+}
+
+h2 {
+    background-color: blue;
+    color: wheat;
+    border-radius: 10%;
 }
